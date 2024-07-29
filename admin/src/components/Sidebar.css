@@ -1,0 +1,9 @@
+@media(max-width:900px){
+    .container p{
+        display: none;
+    }
+}
+
+.text-responsive {
+    font-size: max(1vh, 10px);
+  }
